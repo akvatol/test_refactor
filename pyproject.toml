@@ -29,4 +29,4 @@ Homepage = "https://github.com/akvatol/test_refactor"
 Repository = "https://github.com/akvatol/test_refactor"
 
 [project.scripts]
-refactor-test = "src.main:main"
+refactor-test = "refactor_test.src.main:main"
